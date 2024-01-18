@@ -1,4 +1,4 @@
-# Doctor-Appointment-System
+# Doctor-Appointment-System By Prince Nayak
 ![Screenshot (990)](https://github.com/Yash084/BookADoc/assets/91718061/8fcc3bc8-c85e-4d3c-9d2a-e9bb97f9d93e)
 ![Screenshot (989)](https://github.com/Yash084/BookADoc/assets/91718061/f5577f83-eeaa-46d5-a25a-22214d363b89)
 ![Screenshot (988)](https://github.com/Yash084/BookADoc/assets/91718061/6bef4074-0bef-4619-aec1-3c548760cb7e)
